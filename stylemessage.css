@@ -1,0 +1,25 @@
+body {
+    background-image: url(https://media.istockphoto.com/id/1221832287/vector/birthday-seamless-icon-background.jpg?s=612x612&w=0&k=20&c=SfiQ75iff0k4YxLKGbCn_iKdzaKA4puh5ldCLyWFMc8=);
+    background-size: cover;
+    position: absolute;
+    height: 98%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+main {
+    width: 70%;
+    padding: 0 20px;
+    border: 2px dashed white;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.3)blur(8px);;
+    backdrop-filter: blur(5px);}
+
+h1, p {
+    text-align: center;
+}
+
+p {
+     font-size: 1.1rem;
+}
